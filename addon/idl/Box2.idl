@@ -1,0 +1,6 @@
+﻿[
+    Constructor(long min, long max),
+] interface Box2 {
+    Box2 set(long min, long max);
+    boolean isEmpty();
+};

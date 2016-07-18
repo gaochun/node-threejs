@@ -1,0 +1,23 @@
+{
+  "name": "threejs",
+  "version": "0.0.1",
+  "description": "Node addon of threejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "TBD"
+  ],
+  "homepage": "https://github.com/gaochun/node-threejs",
+  "repository": {
+    "type": "https",
+    "url": "https://github.com/gaochun/node-threejs"
+  },
+  "author": "Gao Chun",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "latest",
+    "nan": "latest"
+  }
+}
